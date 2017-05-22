@@ -1,0 +1,14 @@
+{
+  "name": "memory-pusher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "memory.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Esteban Herrera",
+  "license": "MIT",
+  "dependencies": {
+    "pusher": "1.5.1"
+  }
+}
